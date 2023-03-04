@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I am Saisatheesh M
+>[LinkedIn](https://www.linkedin.com/in/sai-satheesh-9801b81a5/)
 
-<!--
-**saisatheesh5/saisatheesh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Working as:
+Computer Vision Engineer at SS Automation Solutions Pvt Ltd, Bangalore
 
-Here are some ideas to get you started:
+### Experience/Projects:
+Vision System developed for
+- Identification of components presence during motor assembly.
+- Dimenstional and damage inspection of drillbits.
+- Face Recognition Based Attendance System.
+- Inspection of Car accessories presence after completing assembly.
+- Identification of Component type and its orientation before machining.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+- Python
+- OpenCV
+- Deep Learning
